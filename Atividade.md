@@ -15,4 +15,4 @@ Pode-se fazer listas usando simbolos ou números, exemplo:
 
 ## Códigos
 
-Para inserirmos código no markdown precisamos usar `` `código inline` `` ou ```` ```novo bloco de código``` ````, também podemos especificar a linguagem utilizada: ```php `php <?php ... ?>` ```
+Para inserirmos código no markdown precisamos usar `` `código inline` `` ou ```` ```novo bloco de código``` ````, também podemos especificar a linguagem utilizada: ```` ```php <?php ... ?>``` ````
