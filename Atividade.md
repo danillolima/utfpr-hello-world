@@ -1,17 +1,18 @@
-## T韙ulos
-Para um t韙ulo podemos utilizar:  ``` # titulo l ``` e para subst韙ulos ``` ## titulo 2 ``` ...
-``` ####### sub titulo 7 ```
+## T铆tulos
+Para um t铆tulo podemos utilizar:  ``` # titulo l ``` e para subt铆tulos ``` ## titulo 2 ``` ...
+``` ####### sub titulo 7 ```.
+
 ## Items
-Pode-se fazer listas usando simbolos ou n鷐eros, exemplo:
+Pode-se fazer listas usando simbolos ou n煤meros, exemplo:
 + item = ` + item `
 - item = ` - item `
 * item = ` * item `
 
 1. item = ` 1. item `
-2. item	= ` 1. item `
-3. item = ` 1. item `
+2. item	= ` 2. item `
+3. item = ` 3. item `
 
 
-## C骴igos
+## C贸digos
 
-Para inserirmos c骴igo no markdown precisamos usar ` `c骴igo inline` ` ou ``` ``` novo bloco de c骴igo ``` ```, tamb閙 podemos especificar a linguagem utilizada: `php `php <?php ... ?>` `
+Para inserirmos c贸digo no markdown precisamos usar ` \`c贸digo inline\` ` ou ``` \``` novo bloco de c贸digo \``` ```, tamb茅m podemos especificar a linguagem utilizada: `php \`php <?php ... ?>\` `
